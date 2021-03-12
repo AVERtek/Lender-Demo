@@ -1,0 +1,518 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 21878,
+      "type": "VEC3",
+      "max": [
+        1.9549193382263184,
+        0.76146024465560913,
+        2.633216381072998
+      ],
+      "min": [
+        -1.9549193382263184,
+        -0.76146024465560913,
+        -2.633216381072998
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 21878,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 21878,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.99997937679290771,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 21878,
+      "type": "VEC2",
+      "max": [
+        0.989886999130249,
+        0.98844999074935913
+      ],
+      "min": [
+        0.02151699922978878,
+        0.040789999067783356
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 48948,
+      "type": "SCALAR",
+      "max": [
+        19822.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 1296,
+      "type": "SCALAR",
+      "max": [
+        20070.0
+      ],
+      "min": [
+        19823.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 6528,
+      "type": "SCALAR",
+      "max": [
+        21877.0
+      ],
+      "min": [
+        20071.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 115409,
+      "type": "VEC3",
+      "max": [
+        1.8946993350982666,
+        0.60311639308929443,
+        2.5510835647583008
+      ],
+      "min": [
+        -1.8946993350982666,
+        -0.60311639308929443,
+        -2.5510835647583008
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 115409,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 115409,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 115409,
+      "type": "VEC2",
+      "max": [
+        18.551925659179688,
+        0.99226599931716919
+      ],
+      "min": [
+        -37.456745147705078,
+        -0.015085999853909016
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 301248,
+      "type": "SCALAR",
+      "max": [
+        99173.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5125,
+      "count": 51729,
+      "type": "SCALAR",
+      "max": [
+        115240.0
+      ],
+      "min": [
+        99174.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5125,
+      "count": 342,
+      "type": "SCALAR",
+      "max": [
+        115408.0
+      ],
+      "min": [
+        115241.0
+      ]
+    }
+  ],
+  "asset": {
+    "generator": "Plattar UnityGLTF (2020.2.0b5)",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "Bahay_1 bed Apartment_6_For Collider.bin",
+      "byteLength": 8230140
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 262536
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 262536,
+      "byteLength": 262536
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 525072,
+      "byteLength": 350048
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 875120,
+      "byteLength": 175024
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1050144,
+      "byteLength": 195792
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1245936,
+      "byteLength": 5184
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1251120,
+      "byteLength": 26112
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 1277232,
+      "byteLength": 1384908
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2662140,
+      "byteLength": 1384908
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4047048,
+      "byteLength": 1846544
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5893592,
+      "byteLength": 923272
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6816864,
+      "byteLength": 1204992
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8021856,
+      "byteLength": 206916
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8228772,
+      "byteLength": 1368
+    }
+  ],
+  "images": [
+    {
+      "uri": "Wall.jpg",
+      "name": "Wall"
+    },
+    {
+      "uri": "190808_Bahay_FloorPlan.jpg",
+      "name": "190808_Bahay_FloorPlan"
+    },
+    {
+      "uri": "FunitureTextures.jpg",
+      "name": "FunitureTextures"
+    },
+    {
+      "uri": "Additional_Stuff.jpg",
+      "name": "Additional_Stuff"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      },
+      "name": "WALL"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      },
+      "name": "FLOOR"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      },
+      "name": "FURNITURE"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9063317,
+          0.9063317,
+          0.9063317,
+          1.0
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      },
+      "name": "AdditionalStuff"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 5,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 6,
+          "material": 2
+        }
+      ],
+      "name": "polySurface3254"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 12,
+          "material": 3
+        },
+        {
+          "attributes": {
+            "POSITION": 7,
+            "NORMAL": 8,
+            "TANGENT": 9,
+            "TEXCOORD_0": 10
+          },
+          "indices": 13,
+          "material": 0
+        }
+      ],
+      "name": "polySurface3476"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "name": "Bahay_1 bed Apartment_6_For Collider"
+    },
+    {
+      "mesh": 0,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.213683546,
+        0.7195367,
+        0.4159741
+      ],
+      "name": "polySurface3254"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "translation": [
+        0.21273528,
+        0.5802825,
+        0.437329471
+      ],
+      "name": "polySurface3476"
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9729
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "Bahay_1 bed Apartment_6_For Collider"
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "Wall"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "190808_Bahay_FloorPlan"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "FunitureTextures"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "Additional_Stuff"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+#title: AVERtek # your name photo (or website title) here
+logo1: "images/XR-NOW.png? raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br> 
+  <h2><b>TEST DEMO</h2></b>
+  <h3><b>Engage ALL 4 Experiences</h3></b>
+  <br><br>
+  <b>ENVISION: 3D CREATION </b>  Model Below
+  <br><br> 
+  <b>EXPLORE: 4D AUGMENTED REALITY</b>  AR Engagement on Mobile Device
+  <br><br>
+  <b>VIEW:</b><a href="https://avertek.net/xr-now" onclick="getOutboundLink('https://avertek.net/xr-now'); return false;"</b><b> THE POWER OF XR-NOW</b></a> 
+  <br><br>
+  <b>DISCOVER:</b><a href="https://avertek.net/special-bonus" onclick="getOutboundLink('https://avertek.net/special-bonus'); return false;"</b> <b> DISCOUNT COUPON</a> 
+  <br><br>
+theme: jekyll-theme-minimal
+# Google Analytics
+google_analytics: UA-000000000-0 
