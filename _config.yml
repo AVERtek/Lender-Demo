@@ -2,7 +2,7 @@
 logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2><b>HOME LENDER DEMO</h2></b>
-  <h3><b>Engage a NEW Experience</h3></b>
+  <h3><b>The New Real Estate Experience</h3></b>
   <br><br>
   <b>THE RAINMAKER:</b><a href="https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497" onclick="getOutboundLink('https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497'); return false;"</b><b> Meet Jeff</b></a>
   <br><br> 
@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>THE POWER OF PRE-APPROVAL:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Yours in Minutes</b></a> 
   <br><br>
-  <b>DISCOVER JEFF'S SECRET:</b><a href="jeff.jackson@patronus-inc.com" onclick="getOutboundLink('jeff.jackson@patronus-inc.com'); return false;"</b> <b> Contact Me to Discuss</a> 
+  <b>DISCOVER JEFF'S SECRET:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Me to Discuss</a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
