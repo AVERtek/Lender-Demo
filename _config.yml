@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy Sale</b></a>
   <br><br>
-  <b>POWERFUL PRE-APPROVALS:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Results Quickly</b></a> 
+  <b>PRE-APPROVAL POWER:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Quick Results</b></a> 
   <br><br>
   <b>DISCOVER JEFF'S SECRET:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Me</a> 
   <br><br>
