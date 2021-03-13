@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> 
   <b>BUYER'S EXPLORE:</b><a href="https://www.realtor.com/realestateforsale" onclick="getOutboundLink('https://www.realtor.com/realestateforsale'); return false;"</b><b> New Listings</b></a>
   <br><br>
-  <b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy, Rewarding</b></a>
+  <b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy Sale</b></a>
   <br><br>
   <b>THE POWER OF PRE-APPROVAL:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Yours in Minutes</b></a> 
   <br><br>
