@@ -10,9 +10,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy Sale</b></a>
   <br><br>
-  <b>THE POWER OF PRE-APPROVAL:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Yours in Minutes</b></a> 
+  <b>POWERFUL PRE-APPROVALS:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Results Quickly</b></a> 
   <br><br>
-  <b>DISCOVER JEFF'S SECRET:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Me to Discuss</a> 
+  <b>DISCOVER JEFF'S SECRET:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Me</a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
