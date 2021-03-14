@@ -1,5 +1,5 @@
 ### Easy Home Financing, Check Out Our $$$ Resources <!-- Loads <model-viewer> for old browsers like IE11: -->
-### Step into Our Cash Vault; Experience Augmented Reality on Mobile  <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Cash For Your Dream Home; Step Into Augmented Reality use Mobile  <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
