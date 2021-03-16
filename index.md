@@ -1,4 +1,4 @@
-![Lender-Demo](https://github.com/AVERtek/Lender-Demo/blob/main/images/Lender%20Logo%205a.png)
+![Lender-Demo](https://github.com/AVERtek/Lender-Demo/blob/main/images/Lender%20Logo%205a.png?raw=true)
 ### Easy Home Financing, Quick Cash For Your Dream Home; <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### Use Mobile to Step Into Our Augmented Reality Vault!  <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
