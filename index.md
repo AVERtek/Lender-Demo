@@ -1,6 +1,6 @@
+![Lender Logo 5a.png](https://github.com/AVERtek/Lender-Demo/blob/main/images/Lender%20Logo%205a.png)
 ### Easy Home Financing, Quick Cash For Your Dream Home; <!-- Loads <model-viewer> for old browsers like IE11: -->
 ### Use Mobile to Step Into Our Augmented Reality Vault!  <!-- Loads <model-viewer> for old browsers like IE11: -->
-![images]/Lender Logo 5a.png? raw=true" # your photo (or logo) here
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
