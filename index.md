@@ -1,6 +1,6 @@
 <img src="images/Lender Logo 5a.png" width=300>
 ### Easy Home Financing, Quick Cash For Your Dream Home; <!-- Loads <model-viewer> for old browsers like IE11: -->
-### Opening Our Vault For You; Use Mobile, Press AR & Step Inside! <!-- Loads <model-viewer> for old browsers like IE11: -->
+### Access Our Vault; Use Mobile, Press AR & Step Inside! <!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
