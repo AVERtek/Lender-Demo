@@ -2,7 +2,7 @@
 logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2><b>REAL ESTATE SUCCESS KIT</h2></b>
-  <h3><b>Expert Home Purchase & Sales Advise</h3></b>
+  <h3><b>Expert Home Purchase/Sales Advise</h3></b>
   <br><br>
   <b>THE RAINMAKER:</b><a href="https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497" onclick="getOutboundLink('https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497'); return false;"</b><b> Meet The Best</b></a>
   <br><br> 
