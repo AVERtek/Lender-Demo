@@ -1,18 +1,18 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "images/Company Here.jpg? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h2><b>BROKER IDENTITY HERE</h2></b>
-  <h3><b>Toolkit For Real Estate Success</h3></b>
+  <h1 style="text-align: center;" markdown="1"><b>REAL ESTATE SUCCESS KIT</h1></b>
+  <h2 style="text-align: center;" markdown="1"><b>Expert Agent Advice</h2></b>
   <br><br>
-  <b>THE RAINMAKER:</b><a href="https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497" onclick="getOutboundLink('https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497'); return false;"</b><b> Meet The Best</b></a>
+  <h3 style="text-align: center;" markdown="1"><b>THE RAINMAKER:</b><a href="https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497" onclick="getOutboundLink('https://www.realtor.com/realestateagents/jeff-jackson_laguna-woods_ca_1705866_637454497'); return false;"</b><b> Meet The Best</b></a>
   <br><br> 
-  <b>BUYER'S EXPLORE:</b><a href="https://www.realtor.com/realestateforsale" onclick="getOutboundLink('https://www.realtor.com/realestateforsale'); return false;"</b><b> New Listings</b></a>
+  <h3 style="text-align: center;" markdown="1"><b>BUYER'S EXPLORE:</b><a href="https://www.realtor.com/realestateforsale" onclick="getOutboundLink('https://www.realtor.com/realestateforsale'); return false;"</b><b> New Listings</b></a>
   <br><br>
-  <b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy Sale</b></a>
+  <h3 style="text-align: center;" markdown="1"><b>SELLER'S REJOICE:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Quick, Easy Sale</b></a>
   <br><br>
-  <b>PRE-APPROVAL POWER:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Quick Results</b></a> 
+  <h3 style="text-align: center;" markdown="1"><b>PRE-APPROVAL POWER:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Quick Results</b></a> 
   <br><br>
-  <b>DISCOVER SUCCESS:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Us</a> 
+  <h3 style="text-align: center;" markdown="1"><b>DISCOVER SUCCESS:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Us</a> 
   <br><br>
 theme: jekyll-theme-minimal
 # Google Analytics
