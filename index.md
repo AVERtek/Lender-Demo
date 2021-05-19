@@ -20,11 +20,86 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
+<script>
+      function Sync(selector, audioSelector) {
+        var modelViewer = document.querySelector(selector);
+        var sound = document.querySelector(audioSelector);
+        var playRequest = document.querySelector("#overlay");
+
+   sound.addEventListener("timeupdate", () => {
+          modelViewer.currentTime = sound.currentTime;
+          console.log("modelViewer time: " + modelViewer.currentTime);
+        });
+
+   sound.addEventListener("pause", () => {
+          modelViewer.pause();
+        });
+
+   sound.addEventListener("play", () => {
+          modelViewer.play();
+
+   playRequest.classList.add("hide");
+        });
+
+   document.addEventListener("visibilitychange", () => {
+          if (document.visibilityState !== "visible") {
+            sound.pause();
+          }
+        });
+
+   var promise = sound.play();
+        if (promise !== undefined) {
+          promise
+            .then(_ => {
+              console.log("Autoplay has worked");
+              playRequest.classList.add("hide");
+            })
+            .catch(error => {
+              // Show a "Play" button so that user can start playback.
+              console.log("Autoplay has not worked");
+
+   // show the modal dialogue to play this
+   playRequest.classList.remove("hide");
+            });
+        }
+
+   }
+
+   function playNow() {
+        var playRequest = document.querySelector("#overlay");
+        playRequest.classList.add("hide");
+
+   var sound = document.querySelector("#sound");
+        sound.play();
+      }
+
+   function jumpTo(time) {
+        var sound = document.querySelector("#sound");
+        sound.currentTime = time;
+      }
+   </script>
+
 <model-viewer id="reveal" loading="eager" camera-controls camera-orbit="0deg 90deg 75%" autoplay animation-name="Take 001" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Lender Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
 
+<section class="attribution">
+        <div>
+          <span>
+            <h1 style="text-align: center;" markdown="1">Play the Message</h1>
+              <p align="center">
+              <span>
+              <audio controls autoplay loop id="sound">
+                <source src="Sound/VM Lender v3.mp3"/>
+              </audio
+            ></span> 
+             </p>
+            </span>
+         </div>
+   </section>
+   
+   
 <script>
 /**
 * Function that registers a click on an outbound link in Analytics.
@@ -55,5 +130,5 @@ var getOutboundLink = function(url) {
 
 ---
 
-### <a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek</a> 
+<h3 style="text-align: center;" markdown="1"><a href="https://avertek.net/" onclick="getOutboundLink('https://avertek.net/'); return false;">Learn More About AVERtek's XR-NOW</a></h3> 
   <br><br>
