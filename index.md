@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" camera-controls camera-orbit="0deg 90deg 75%" autoplay animation-name="Take 001" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Lender Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" camera-controls camera-orbit="0deg 90deg 75%" autoplay animation-name="Take 001" src="Models/Bank_Vault.glb?sound=Sound/VM Lender v3.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Lender Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
