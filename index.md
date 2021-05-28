@@ -65,6 +65,26 @@
 
    }
 
+     /*
+        // this was needed because modelViewer.currentTime does not update when paused
+        // https://github.com/google/model-viewer/issues/1113
+          function enforceTime() {
+            if (modelViewer === undefined)
+            modelViewer = document.querySelector(selector);
+
+   if (sound.paused) modelViewer.currentTime = sound.currentTime;
+
+   // need to enforce play
+           if (modelViewer.paused && typeof modelViewer.play === "function")
+              modelViewer.play();
+
+   requestAnimationFrame(enforceTime);
+           }
+
+   requestAnimationFrame(enforceTime);
+        */
+         }
+  
    function playNow() {
         var playRequest = document.querySelector("#overlay");
         playRequest.classList.add("hide");
@@ -79,7 +99,7 @@
       }
    </script>
 
-<model-viewer id="reveal" loading="eager" camera-controls camera-orbit="0deg 90deg 50%" autoplay animation-name="" src="Models/Vault Animation_03.glb?sound=Sound/Vault Animation_3.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Lender Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="reveal" loading="eager" camera-controls camera-orbit="0deg 90deg 50%" autoplay animation-name="" src="Models/Vault Animation_03.glb?sound=Sound/Vault Animation_3.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Bank_Vault.usdz" alt="Lender Demo" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 400px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
