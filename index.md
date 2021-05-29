@@ -1,6 +1,6 @@
 ### Easy Home Financing, Quick Cash For Your Dream Home; <!-- Loads <model-viewer> for old browsers like IE11: -->
 <img src="images/Lender Logo 5a.png" width=200>
-### Access Our Vault; Just Use Mobile Device, Press AR Button, Anchor on Tabletop, Step Inside to Grab Some Cash! <!-- Loads <model-viewer> for old browsers like IE11: -->
+<h3 style="text-align: center;" markdown="1"><b>Access Our Vault; Just Use Mobile Device, Press AR Button, Anchor on Tabletop, Step Inside to Grab Some Cash! </b></H3><!-- Loads <model-viewer> for old browsers like IE11: -->
 <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
 
