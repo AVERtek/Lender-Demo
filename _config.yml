@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> 
   <h3 style="text-align: center;" markdown="1"><b>BUYER'S EXPLORE:</b><a href="https://www.realtor.com/realestateforsale" onclick="getOutboundLink('https://www.realtor.com/realestateforsale'); return false;"</b><b> New Listings</b></a>
   <br><br>
-  <h3 style="text-align: center;" markdown="1"><b>SELLER'S:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Fast & Easy Sale</b></a>
+  <h3 style="text-align: center;" markdown="1"><b>SELLER'S:</b><a href="https://www.realtor.com/sell" onclick="getOutboundLink('https://www.realtor.com/sell'); return false;"</b><b> Easy, Fast, Profitable</b></a>
   <br><br>
-  <h3 style="text-align: center;" markdown="1"><b>GET APPROVED NOW:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Quick Results</b></a> 
+  <h3 style="text-align: center;" markdown="1"><b>GET APPROVED:</b><a href="https://www.realtor.com/mortgage/" onclick="getOutboundLink('https://www.realtor.com/mortgage/'); return false;"</b><b> Quick Results</b></a> 
   <br><br>
   <h3 style="text-align: center;" markdown="1"><b>DISCOVER SUCCESS:</b><a href="https://avertek.net/contact-us" onclick="getOutboundLink('https://avertek.net/contact-us'); return false;"</b> <b> Contact Us</a> 
   <br><br>
