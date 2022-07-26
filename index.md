@@ -79,7 +79,7 @@
       }
    </script>
 
-<model-viewer id="model-viewer" loading="eager" camera-controls camera-orbit="0deg 97deg 40%" autoplay animation-name="" src="Models/Vault Animation_03.glb?sound=Sound/Vault Animation_3.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Models/BankVault.reality" alt="Lender Demo" ar-scale="auto" auto-rotate-delay="0" camera-controls="" style="width: 95%; height: 400px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer id="model-viewer" loading="eager" camera-controls interaction-prompt="none" camera-orbit="0deg 97deg 40%" autoplay animation-name="" src="Models/Vault Animation_03.glb?sound=Sound/Vault Animation_3.mp3" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Models/BankVault.reality" alt="Lender Demo" ar-scale="auto" auto-rotate-delay="0" camera-controls="" style="width: 95%; height: 400px" exposure="0.5"> <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 View AR Click Here
   </button>
 </model-viewer>
